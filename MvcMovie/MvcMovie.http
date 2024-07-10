@@ -1,0 +1,4 @@
+GET {{host}}/HelloWorld/Welcome?Name=David&numtimes=4
+
+###
+GET {{host}}/HelloWorld/Welcome/3?name=Rick
